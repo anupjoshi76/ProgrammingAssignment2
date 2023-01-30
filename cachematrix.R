@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+##the makecachematrix is a function needed for cachesolve function
 
 makeCacheMatrix <- function(x = matrix()) {
  m <- NULL
